@@ -55,6 +55,10 @@ Os modelos já estão treinados e salvos no repositório (.pkl), não sendo nece
 
 O projeto possui uma interface interativa construída com Streamlit, permitindo a simulação de cenários a partir da entrada de indicadores.
 
+Link para a aplicação:
+
+https://datathon-fiap-paapps-magicos-gap5ickukarcqyvoge7gpe.streamlit.app/
+
 ---
 
 ## ⚙️ Configuração do Ambiente
